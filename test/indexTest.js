@@ -178,7 +178,7 @@ describe('index.js', function () {
     })
   })
 
-  // describe('mySortBy', function () {
+  //  describe('mySortBy', function () {
   //   const unsortedIntArr = [3, 8, 5, 1, 9, 11, 8]
   //   const unsortedStringArr = ["maru", "choux", "doge", "coconut"]
   //   const unsortedObjArr = [
